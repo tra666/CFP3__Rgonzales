@@ -1,7 +1,7 @@
 
 # 1_Escribir un programa que almacene los meses del año (por ejemplo Enero, Feberero, Marzo......) en una lista y luego mostrar el resultado por pantalla.
 
-#meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+# meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 # for mes in meses:
 #     print(mes)
 
