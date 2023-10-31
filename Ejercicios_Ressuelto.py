@@ -1,7 +1,7 @@
 
 # 1_Escribir un programa que almacene los meses del año (por ejemplo Enero, Feberero, Marzo......) en una lista y luego mostrar el resultado por pantalla.
 
-# meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+#meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 # for mes in meses:
 #     print(mes)
 
@@ -46,7 +46,7 @@
 #     print("No debes pagar el impuesto.")
 
 
-#Este programa pide al usuario que introduzca su edad e ingresos mensuales. Luego, verifica si la edad es mayor o igual a 18 y si los ingresos son mayores o iguales a $200.000.
+#pide al usuario que introduzca su edad e ingresos mensuales. Luego, verifica si la edad es mayor o igual a 18 y si los ingresos son mayores o iguales a $200.000.
 #Si ambas condiciones son verdaderas, el programa imprime que el usuario debe pagar el impuesto. Si no, imprime que el usuario no debe pagar el impuesto.
 
 
@@ -65,7 +65,7 @@ else:
     print("El precio de la entrada es $1000.")
 
 
-#Este programa pide al usuario que introduzca la edad del cliente. Luego, verifica si el cliente es menor de 4 años
+#pide al usuario que introduzca la edad del cliente. Luego, verifica si el cliente es menor de 4 años
 #entre 4 y 18 años, o mayor de 18 años. Dependiendo de la edad del cliente, el programa imprime el precio de la entrada correspondiente.
 
 
@@ -81,7 +81,7 @@ while contrasena != confirmacion:
 
 print("Las contraseñas coinciden. El programa ha terminado.")
 
-#Este programa pide al usuario que introduzca una contraseña y luego la confirme. Si las contraseñas no coinciden
+#pide al usuario que introduzca una contraseña y luego la confirme. Si las contraseñas no coinciden
 # el programa le pide al usuario que lo intente de nuevo. Esto continúa hasta que las contraseñas
 #coinciden, momento en el cual el programa imprime un mensaje de confirmación y termina.
 
